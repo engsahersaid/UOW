@@ -1,0 +1,6 @@
+@UOWPoc_HostAddress = http://localhost:5111
+
+GET {{UOWPoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
